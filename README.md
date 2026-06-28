@@ -84,7 +84,7 @@ python drug_discovery_poc.py
 
 ---
 
-## Research Insights
+## Summary
 This project demonstrates the core ideas of:
 
 - **Preference learning from noisy pairwise comparisons** - a key mechanism for learning latent human utilities in both scientific and human-AI settings
